@@ -1,0 +1,14 @@
+[
+    {
+        "name": "rahul",
+        "age": 20,
+        "subject": "python",
+        "mark": 80.0
+    },
+    {
+        "name": "babon",
+        "age": 21,
+        "subject": "python",
+        "mark": 50.0
+    }
+]
